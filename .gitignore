@@ -1,0 +1,5 @@
+state.json
+notifications.log
+__pycache__/
+*.pyc
+.env
